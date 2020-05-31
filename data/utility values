@@ -1,0 +1,29 @@
+skosimp 1, 3 a
+expand 2, 6 b
+skolem! 3, 1 c
+flatten 4, 2 d
+inst 5, 3 e
+inst? 6, 2 f 
+propax 7, 1 g 
+skeep 8, 1 h
+typepred 9, 1 i 
+assert 10, 5 j
+grind 11, 4 k 
+split 12, 2 l
+induct 13, 2 m
+skosimp* 14, 2 n 
+lemma 15, 1 o
+use 16, 1 p
+hide 17, 1 q
+hide-all-but 18, 1 r
+case-replace 19, 1 s 
+prop 20, 1 t 
+rewrite 21, 1 u
+
+
+
+
+
+
+
+
